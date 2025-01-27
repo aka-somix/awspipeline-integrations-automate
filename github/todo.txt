@@ -1,0 +1,2 @@
+Implementation details:
+https://medium.com/@alissonpdc/github-actions-how-to-authenticate-on-aws-cloud-14185f811bf0
